@@ -5,4 +5,4 @@
 * Multiple Linear Regression
 * Logistic Regression
 '''
-## classfication
+## cnn
